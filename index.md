@@ -8,7 +8,7 @@
 <h1>KaYesu Machayo</h1>
 <h4><br>
 Hello! My name is KaYesu, and I'm a freshman double majoring in computer science and 
-business at The George Washington University.  I am a first generation American, my mom is from Uganda and my dad is from Kenya.
+business at The George Washington University.  I am a first generation American, and I am half Ugandan and half Kenyan.
 <br><br>
 This summer, I am working for Girls Who Code as an Operations Specialist (remotely) and Campus TA at Georgetown Day School.
 <br><br>
@@ -70,17 +70,10 @@ Feel free to reach out to me at kayesumachayo@gwmail.gwu.edu!
 <h4><strong>Campus Teaching Assistant</strong></h4>
 <h5>Girls Who Code | Washington, D.C.</h5>
 <p>As a teaching assistant for Introduction to Computer Science, I provide support in classroom management, lesson delivery, logistical tasks, and equipment management. I am teaching the students the Girls Who Code Core4 Programming Concepts (loops, variables, conditionals, and functions).
-.</p>
+</p>
 </figure>
 <figure class="col-sm-2">
 <p>June 2018</p>
-</figure>
-</div>
-<div class="row">
-<figure class="col-sm-3">
-<br>
-<br>
-<br>
 
 <h4><strong>Operations Specialist </strong></h4>
 <h5>Girls Who Code | Washington, D.C.</h5>
@@ -94,13 +87,6 @@ Feel free to reach out to me at kayesumachayo@gwmail.gwu.edu!
 </figure>
 </div>
 <div class="row">
-
-
-
-<figure class="col-sm-3">
-<img id="gwclogo" src="assets/gwclogo.png" alt="Girls Who Code Logo"/>
-</figure>
-<figure class="col-sm-7">
 <h4><strong>Teaching Assistant</strong></h4>
 <h5>Girls Who Code | Dulles, VA</h5>
 <p>Girls Who Code seeks to close the gender gap in technology. As a teaching assistant, I taught Python, Scratch, Arduino,
