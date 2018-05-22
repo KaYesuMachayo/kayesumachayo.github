@@ -40,7 +40,7 @@ Feel free to reach out to me at kayesumachayo@gwmail.gwu.edu!
 <div class="row">
 
 
-<h4><strong>The George Washington University, School of Engineering and Applied Science</strong> | Ithaca, NY</h4>
+<h4><strong>The George Washington University, School of Engineering and Applied Science</strong> | Washington, D.C.</h4>
 <h5>Bachelor of Science, Computer Science; Business</h5>
 
 
